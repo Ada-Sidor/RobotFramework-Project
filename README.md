@@ -8,7 +8,7 @@ The automated tests are written in the Robot Framework. Their main goal is to en
 
 ## Executed Tests
 
-The project includes 9 automated tests covering various aspects of the Mazowieckie Railway website's functionality:
+The project includes 9 automated tests covering various aspects of Koleje Mazowieckie website's functionality:
 
 1. Test-01 - Test searching for a connection, selecting a ticket, and adding it to the cart
 2. Test-02 - Test searching for a connection with empty fields
